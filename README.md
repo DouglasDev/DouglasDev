@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DouglasDev
 - 👀 I’m interested in front-end web dev, machine learning, NLP, computer art and music
-- 🌱 I’m currently learning .NET
+- 🌱 I’m currently learning C# .NET
 - 💞️ I’m looking to collaborate on a language learning role playing game
-- 📫 How to reach me: douglasdev8888@gmail.com
+- 📫 Reach me at: douglasdev8888@gmail.com
